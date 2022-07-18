@@ -5,9 +5,9 @@ let upTimeId;
 let downTimerId;
 let isJumping = true;
 let isGoingLeft = false;
-let isGoingRignt = false;
-let leftTimeId;
-let rigntTimeId;
+let isGoingRight = false;
+let leftTimerId;
+let rigntTimerId;
 let isGameOver = false;
 
 
